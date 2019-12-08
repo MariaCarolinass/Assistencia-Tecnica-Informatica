@@ -24,3 +24,7 @@ hs_err_pid*
 
 *.netbeans_automatic_build
 *.netbeans_update_resources
+
+build/
+dist/
+test/
